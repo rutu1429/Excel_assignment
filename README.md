@@ -1,0 +1,2 @@
+# Excel_assignment
+This repository contains a comprehensive collection of Excel-based assignments designed to strengthen fundamental and advanced spreadsheet skills. It covers real-world use cases commonly encountered in data analysis, business intelligence, and financial modeling.
